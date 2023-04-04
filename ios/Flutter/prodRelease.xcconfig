@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_prod.dart
+ASSET_PREFIX=prod
+BUNDLE_NAME=appgooglemapflavor Prod
+BUNDLE_DISPLAY_NAME=appgooglemapflavor Prod
