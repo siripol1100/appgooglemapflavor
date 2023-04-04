@@ -15,7 +15,7 @@ class _MainGoogleMapState extends State<MainGoogleMap> {
     return Scaffold(
       body: SafeArea(
         child: Text(
-          F.baseURL.toString(),
+          F.title.toString(),
         ),
       ),
     );
